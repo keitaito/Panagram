@@ -66,6 +66,10 @@
             argument = "-p"
             isEnabled = "YES">
          </CommandLineArgument>
+         <CommandLineArgument
+            argument = "level"
+            isEnabled = "YES">
+         </CommandLineArgument>
       </CommandLineArguments>
       <AdditionalOptions>
       </AdditionalOptions>

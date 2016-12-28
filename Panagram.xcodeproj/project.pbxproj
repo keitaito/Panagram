@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		871DBE0A1E136B5100B9C48E /* Panagram.swift in Sources */ = {isa = PBXBuildFile; fileRef = 871DBE091E136B5100B9C48E /* Panagram.swift */; };
+		8746024B1E137D52005FEB06 /* StringExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8746024A1E137D52005FEB06 /* StringExtension.swift */; };
 		879AF3171E135F4F003B6883 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879AF3161E135F4F003B6883 /* main.swift */; };
 		879AF31E1E135FCB003B6883 /* ConsoleIO.swift in Sources */ = {isa = PBXBuildFile; fileRef = 879AF31D1E135FCB003B6883 /* ConsoleIO.swift */; };
 /* End PBXBuildFile section */
@@ -26,6 +27,7 @@
 
 /* Begin PBXFileReference section */
 		871DBE091E136B5100B9C48E /* Panagram.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Panagram.swift; sourceTree = "<group>"; };
+		8746024A1E137D52005FEB06 /* StringExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StringExtension.swift; sourceTree = "<group>"; };
 		879AF3131E135F4F003B6883 /* Panagram */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Panagram; sourceTree = BUILT_PRODUCTS_DIR; };
 		879AF3161E135F4F003B6883 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		879AF31D1E135FCB003B6883 /* ConsoleIO.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConsoleIO.swift; sourceTree = "<group>"; };
@@ -64,6 +66,7 @@
 				879AF3161E135F4F003B6883 /* main.swift */,
 				879AF31D1E135FCB003B6883 /* ConsoleIO.swift */,
 				871DBE091E136B5100B9C48E /* Panagram.swift */,
+				8746024A1E137D52005FEB06 /* StringExtension.swift */,
 			);
 			path = Panagram;
 			sourceTree = "<group>";
@@ -127,6 +130,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8746024B1E137D52005FEB06 /* StringExtension.swift in Sources */,
 				879AF3171E135F4F003B6883 /* main.swift in Sources */,
 				879AF31E1E135FCB003B6883 /* ConsoleIO.swift in Sources */,
 				871DBE0A1E136B5100B9C48E /* Panagram.swift in Sources */,
